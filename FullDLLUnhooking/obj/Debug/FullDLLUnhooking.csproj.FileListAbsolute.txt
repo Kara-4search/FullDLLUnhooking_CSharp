@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\Debug\FullDLLUnhooking.exe.config
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\Debug\FullDLLUnhooking.exe
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\Debug\FullDLLUnhooking.pdb
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\Debug\FullDLLUnhooking.csprojAssemblyReference.cache
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\Debug\FullDLLUnhooking.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\Debug\FullDLLUnhooking.exe
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\Debug\FullDLLUnhooking.pdb
