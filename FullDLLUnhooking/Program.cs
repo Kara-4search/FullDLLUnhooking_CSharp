@@ -11,7 +11,7 @@ using static FullDLLUnhooking.NativeFunctions;
 
 namespace FullDLLUnhooking
 {
-    class Program
+    public class Program
     {
 		public static void InvokeMain()
         {
@@ -68,6 +68,8 @@ namespace FullDLLUnhooking
 						(UIntPtr)IMAGE_SECTION_HEADER_instance.VirtualSize, 
 						oldProtect, 
 						out oldProtect);
+
+					break;
 				}
 			}
 

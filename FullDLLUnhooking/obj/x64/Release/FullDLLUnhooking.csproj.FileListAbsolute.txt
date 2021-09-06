@@ -1,0 +1,6 @@
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\x64\Release\FullDLLUnhooking.exe.config
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\x64\Release\FullDLLUnhooking.exe
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\bin\x64\Release\FullDLLUnhooking.pdb
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\x64\Release\FullDLLUnhooking.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\x64\Release\FullDLLUnhooking.exe
+C:\Project\Projects\Project_FullDLLUnhooking\FullDLLUnhooking\FullDLLUnhooking\obj\x64\Release\FullDLLUnhooking.pdb
