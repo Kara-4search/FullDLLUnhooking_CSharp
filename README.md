@@ -50,7 +50,7 @@ Blog link: Not gonna update
 **The above functions are not hooked.** 
 
 ## TO-DO list
-- works on x86
+- To works on x86
 - Maybe even unhook other DLL in userland.
 
 ## Update history
