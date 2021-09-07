@@ -2,7 +2,7 @@
 
 Blog link: Not gonna update 
 
-- A project fully unhook a DLL via file mapping
+- A project fully unhook a DLL via file mapping to bypass EDR's inline hook.
 - Base on my other projects down below:
 	1. [MappingInjection](https://github.com/Kara-4search/MappingInjection_CSharp)
 	2. [HookDetection](https://github.com/Kara-4search/HookDetection_CSharp)
